@@ -12,6 +12,10 @@ MedFinder helps patients in Addis Ababa find nearby pharmacies that currently ha
 - Only **approved** pharmacies and their stock appear in patient search.
 - Demo pharmacies, medicines, and an administrator account are seeded automatically.
 
+## Documentation
+
+- [Use-case demonstration and project defense](docs/DEMONSTRATION_AND_DEFENSE.md) — problem statement, extent of the problem, solution mapping, live demo script, and anticipated defense questions.
+
 ## Tech stack
 
 - Next.js 16 (App Router) and React 19
